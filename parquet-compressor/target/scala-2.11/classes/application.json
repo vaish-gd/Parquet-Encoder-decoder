@@ -1,0 +1,31 @@
+{
+  "appConfig": {
+    "sourceFilePath2" : "/Users/vaishakhghati/Desktop/local0/iteration0_buildid_1000.parquet",
+
+    "sourceFilePath3" : "/Users/vaishakhghati/hadoop/parquet-opt/once1",
+
+    "sourceFilePath" :"/Users/vaishakhghati/hadoop/parquet-opt/METHOD2-10",
+
+    "destinationFilePath" :"/Users/vaishakhghati/hadoop/parquet-opt/METHOD2-11",
+
+
+
+
+    "replaceSubStringWithChar" : "K",
+
+    "NumberOfSubstringsTobeConsidered" : "1",
+
+
+
+    "appConfig.sourceFilePathForFile3" : "/Users/vaishakhghati/hadoop/parquet-opt/qqqq2finalSave3",
+
+
+
+    "finalSave2" : "/Users/vaishakhghati/hadoop/parquet-opt/id-checksum",
+
+
+    "finalSave3" : "/Users/vaishakhghati/hadoop/parquet-opt/substring-dataframe-METHOD2-1"
+
+
+  }
+}

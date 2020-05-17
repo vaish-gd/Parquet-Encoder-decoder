@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/vaishakhghati/hadoop/parquet-opt/src/main/scala/Join.scala:6:25: object graphx is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.graphx.{Graph, VertexId}[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vaishakhghati/hadoop/parquet-opt/src/main/scala/Join.scala:7:25: object graphx is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.graphx.util.GraphGenerators[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/vaishakhghati/hadoop/parquet-opt/src/main/scala/Join.scala:10:25: object graphx is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.graphx._[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
