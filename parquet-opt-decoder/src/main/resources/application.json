@@ -1,0 +1,35 @@
+{
+  "appConfig": {
+    "sourceFilePath2" : "/Users/vaishakhghati/Desktop/local0/iteration0_buildid_1000.parquet",
+
+    "sourceFilePath-CompressedDataset" : "/Users/vaishakhghati/hadoop/parquet-opt/compressed-dataset",
+
+
+    "sourceFilePath-Substring" :"/Users/vaishakhghati/hadoop/parquet-opt/substring-dataframe",
+
+
+
+    "appConfig.sourceFilePathForFile3" : "/Users/vaishakhghati/hadoop/parquet-opt/qqqq2finalSave3",
+
+    "crossJoinColumnName" : "crossJoin",
+
+    "replaceSubStringWithChar" : "X",
+
+
+    "columnNameInConsideration" : "building_id",
+
+    "id-checksum-from-Encoder-path" : "/Users/vaishakhghati/hadoop/parquet-opt/id-checksum",
+
+    "finalOutputPathEncoder" : "/Users/vaishakhghati/hadoop/parquet-opt/finalOutputPathEncoder",
+
+
+
+    "crossJoinedDataFrame" : "/Users/vaishakhghati/hadoop/parquet-opt/crossJoinedDataFrame-POC17",
+
+
+
+    "finalSave3" : "/Users/vaishakhghati/hadoop/parquet-opt/appConfig.finalSave3",
+
+    "finalSave1" : "/Users/vaishakhghati/hadoop/parquet-opt/appConfig.finalSave1"
+  }
+}
