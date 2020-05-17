@@ -4,7 +4,7 @@
 
     "sourceFilePath3" : "/Users/vaishakhghati/hadoop/parquet-opt/once1",
 
-    "sourceFilePath" :"/Users/vaishakhghati/hadoop/parquet-opt/METHOD2-10",
+    "sourceFilePath" :"/Users/vaishakhghati/Desktop/local0/iteration0_buildid_1000.parquet",
 
     "destinationFilePath" :"/Users/vaishakhghati/hadoop/parquet-opt/compressed-dataset",
 
